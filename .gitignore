@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+project-alura/node_modules
+
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+project-alura/node_modules
+
+# testing
+project-alura/coverage
+
+# production
+project-alura/build
+
+# misc
+project-alura/.DS_Store
+project-alura/.env
+project-alura/npm-debug.log*
+project-alura/yarn-debug.log*
+project-alura/yarn-error.log*
